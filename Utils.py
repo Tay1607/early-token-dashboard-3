@@ -1,4 +1,4 @@
-Python 3.12.7 (v3.12.7:0b05ead877f, Sep 30 2024, 23:18:00) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+import streamlit as st
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> import requests
 ... 
